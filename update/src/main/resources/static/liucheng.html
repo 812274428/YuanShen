@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='UTF-8'>
+<title>Insert title here</title>
+<script src='jquery.min.js'></script>
+<script src='vue.js'></script>
+<!-- 引入组件库 -->
+<link rel="stylesheet" href="element.css">
+<script src='element.js'></script>
+<style>
+	#loading{
+		margin-top: 2%;
+		margin-left: -70%;
+	}
+	ul{
+		list-style-type: none;
+	}
+</style>
+</head>
+<body>
+	<div id="div">
+		<button @click="start()">更新</button>
+		
+		<!-- <el-table v-show="shopShow" :data="items" style="width: 720px" >
+			<el-table-column prop="recordName" label="记录名" width="180px" ></el-table-column>
+    		<el-table-column prop="packageName" label="jar包" width="180px" ></el-table-column>
+   			<el-table-column prop="status" label="状态" width="180px" ></el-table-column>
+   			<el-table-column prop="date" label="日期" width="180px" ></el-table-column>
+  		</el-table> -->
+  		<p v-loading="loading" id="loading" element-loading-text="拼命加载中" ></p>
+	</div>
+
+</body>
+<script>
+
+	new Vue({
+		el: "#div",
+		data:{
+			recordName:'admin',
+			items: [{
+				recordName: '',
+				packageName:'',
+				fileName: '',
+				status: '',
+				type: '',
+				date: ''
+			}],
+			obj: [{
+				refNo: '',
+				parameterEntities: '',
+				updateJars: '',
+				deleteJars: ''
+			}],
+			shopShow: false,
+		    loading: false,
+		    resultData: 'test'
+		},
+		
+		methods: {
+			 start() {
+				 this.shopShow = true;
+				 $.ajax({
+					 url: '/updateCore/getDataEntities',
+					 type: 'post',
+					 async: false,
+					 contentType: 'application/json',
+					 data: JSON.stringify({
+						'currentVersion': 'v001',
+						'upgradeableVersion' : 'v003',
+						'rootDir' : 'C:/Users/Weil/Desktop/local',
+						'patchDir' : 'D:/workspace/patch',
+						'parameterDir' : 'D:/CE_PARAMS/CE4.0PARAMS',
+						'recordName' : this.recordName,
+						'serverType' : '',
+						'deploymentModel' : '',
+						'userName' : 'mizuho',
+						'recordPath':'D:/workspace'
+				 	})
+				 }).then(res => {
+					 this.obj = res;
+				 })
+				 this.control();
+			},
+			
+			control(){
+				let result = JSON.parse(JSON.stringify(this.obj));
+				const jarList = new Set();
+				const packageList = new Set();
+			  	for(let i=0; i < result.length; i++){
+			  		for(let j=0; j < result[i].parameterEntities.length; j++){
+			  			console.log(result[i].parameterEntities[j]);
+						this.update(result[i].parameterEntities[j], result[i].refNo);
+						if(result[i].parameterEntities[j].jarName != null && result[i].parameterEntities[j].packageName != null){
+							jarList.add(result[i].parameterEntities[j].jarName);
+							packageList.add(result[i].parameterEntities[j].packageName);
+						}
+					}
+			  		this.updatejar(result[i]);
+			  	}
+				this.end(jarList, packageList);
+			},
+			
+			update(parameterEntity,refNo){
+				$.ajax({
+					 url: '/updateCore/updateCore',
+					 type: 'post',
+					 async: false,
+					 contentType: 'application/json',
+					 data: JSON.stringify({
+						"parameterEntity": parameterEntity,
+						"recordName": this.recordName,
+						"refNo": refNo
+					 })
+				}).then(res => {
+					this.resultData = res;
+					console.log(this.resultData);
+					var html = '<p id="div">'+ this.resultData +'</p>';
+					$("#div").append(html);
+				})
+			},
+			
+			updatejar(result){
+				$.ajax({
+					url: '/updateCore/updateJar',
+					type: 'post',
+					async: false,
+					contentType: 'application/json',
+					data: JSON.stringify({
+						"jarPath": result.updateJars,
+						"recordName": this.recordName,
+						"refNo": result.refNo
+					})
+				})
+			},
+			
+			show(){
+				$.get("/test/selectAll?record="+this.recordName).then(res =>{
+					this.items = res;
+					console.log(this.items);
+				});
+			},
+			
+			end(jarList, packageList){
+				$.ajax({
+					url: '/updateCore/zipJar',
+					type: 'post',
+					async: false,
+					contentType: 'application/json',
+					data: JSON.stringify({
+						"jarList": Array.from(jarList),
+						"packageList": Array.from(packageList),
+						"recordName": this.recordName
+					 })
+				}).then(res => {
+					var html = '<p id="div">'+ res +'</p>';
+					$("#div").append(html);
+					console.log(res);
+				})
+			}
+		},
+
+	})
+</script>
+
+</html>

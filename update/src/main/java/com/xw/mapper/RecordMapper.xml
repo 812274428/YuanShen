@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xw.mapper.RecordMapper">
+
+	<resultMap id="RecordMap" type="com.xw.entity.RecordEntity">
+		<result property="recordName" column="recordName"></result>
+		<result property="version" column="version"></result>
+		<result property="refNo" column="refNo"></result>
+		<result property="packageName" column="packageName"></result>
+		<result property="fileName" column="fileName"></result>
+		<result property="status" column="status"></result>
+		<result property="date" column="date"></result>
+	</resultMap>
+
+    <insert id="insert" parameterType="com.xw.entity.RecordEntity">
+        insert into ref (recordName, version, refNo, packageName, fileName, status, type) values(#{recordName}, #{version}, #{refNo}, #{packageName}, #{fileName}, #{status}, #{type})
+    </insert>
+	
+	<select id="getRecordEntityByRecord" resultMap="RecordMap">
+		select * from ref where recordName = #{recordName};
+	</select>
+
+	<update id="updateStatus" parameterType="com.xw.entity.RecordEntity">
+		update ref set status = #{status} where recordName = #{recordName} and refNo = #{refNo} and packageName = #{packageName} and fileName = #{fileName} and version = #{version};
+	</update>
+	
+	<select id="getRecordEntity" resultMap="RecordMap">
+		select * from ref where recordName = #{recordName} and refNo = #{refNo} and packageName = #{packageName} and fileName = #{fileName} and version = #{version};
+	</select>
+</mapper>

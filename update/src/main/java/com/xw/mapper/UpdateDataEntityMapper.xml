@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xw.mapper.UpdateDataEntityMapper">
+
+	<resultMap id="UpdateDataMap" type="com.xw.entity.UpdateDataEntity">
+		<result property="currentVersion" column="currentVersion"></result>
+		<result property="upgradeableVersion" column="upgradeableVersion"></result>
+		<result property="rootDir" column="rootDir"></result>
+		<result property="patchDir" column="patchDir"></result>
+		<result property="parameterDir" column="parameterDir"></result>
+		<result property="recordName" column="recordName"></result>
+		<result property="serverType" column="serverType"></result>
+		<result property="deploymentModel" column="deploymentModel"></result>
+		<result property="recordPath" column="recordPath"></result>
+		<result property="userName" column="userName"></result>
+		<result property="date" column="date"></result>
+	</resultMap>
+
+	<insert id="insert" parameterType="com.xw.entity.UpdateDataEntity">
+        insert into user (recordName,currentVersion,upgradeableVersion,rootDir,patchDir,parameterDir,serverType,deploymentModel,recordPath,userName) 
+        values(#{recordName},#{currentVersion},#{upgradeableVersion},#{rootDir},#{patchDir},#{parameterDir},#{serverType},#{deploymentModel},#{recordPath},#{userName})
+    </insert>
+
+	<select id="getUpdateDataEntity" resultMap="UpdateDataMap">
+		select * from user where recordName=#{recordName};
+	</select>
+</mapper>

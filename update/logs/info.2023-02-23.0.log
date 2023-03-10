@@ -1,0 +1,474 @@
+2023-02-23 09:09:09.534 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 19240 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 09:09:09.538 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 09:09:10.199 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 09:09:10.208 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:09:10.209 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 09:09:10.209 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 09:09:10.282 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 09:09:10.283 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 713 ms
+2023-02-23 09:09:10.809 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 09:09:10.895 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 09:09:10.938 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:09:10.956 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 09:09:10.962 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.732 seconds (JVM running for 2.312)
+2023-02-23 09:09:15.936 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 09:09:15.936 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 09:09:15.937 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 09:15:39.611 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 18876 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 09:15:39.615 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 09:15:40.290 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 09:15:40.299 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:15:40.300 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 09:15:40.300 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 09:15:40.361 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 09:15:40.361 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 709 ms
+2023-02-23 09:15:40.889 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 09:15:40.979 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 09:15:41.015 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:15:41.028 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 09:15:41.035 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.74 seconds (JVM running for 2.31)
+2023-02-23 09:15:41.375 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 09:15:41.375 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 09:15:41.376 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 09:46:24.525 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 18344 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 09:46:24.528 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 09:46:25.150 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 09:46:25.157 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:46:25.157 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 09:46:25.158 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 09:46:25.215 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 09:46:25.215 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 655 ms
+2023-02-23 09:46:25.734 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 09:46:25.821 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 09:46:25.861 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:46:25.873 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 09:46:25.879 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.656 seconds (JVM running for 2.24)
+2023-02-23 09:47:17.945 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 18576 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 09:47:17.947 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 09:53:54.936 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 12972 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 09:53:54.940 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 09:53:55.629 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 09:53:55.637 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:53:55.638 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 09:53:55.638 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 09:53:55.699 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 09:53:55.699 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 722 ms
+2023-02-23 09:53:56.323 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 09:53:56.432 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 09:53:56.469 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:53:56.482 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 09:53:56.488 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.879 seconds (JVM running for 2.468)
+2023-02-23 09:53:58.825 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 09:53:58.826 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 09:53:58.828 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 2 ms
+2023-02-23 09:54:06.119 [com.xw.filter.FileFilter:32] ERROR  目录CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service不存在
+2023-02-23 09:54:55.395 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 18808 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 09:54:55.397 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 09:54:56.079 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 09:54:56.088 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:54:56.090 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 09:54:56.091 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 09:54:56.159 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 09:54:56.159 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 731 ms
+2023-02-23 09:54:56.709 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 09:54:56.796 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 09:54:56.834 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:54:56.845 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 09:54:56.851 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.766 seconds (JVM running for 2.342)
+2023-02-23 09:54:57.196 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 09:54:57.196 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 09:54:57.197 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 09:56:01.224 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 6804 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 09:56:01.247 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 09:56:01.946 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 09:56:01.953 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:56:01.953 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 09:56:01.953 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 09:56:02.019 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 09:56:02.019 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 742 ms
+2023-02-23 09:56:02.594 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 09:56:02.685 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 09:56:02.745 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:56:02.763 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 09:56:02.772 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.855 seconds (JVM running for 2.435)
+2023-02-23 09:56:02.987 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 09:56:02.987 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 09:56:02.988 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 09:57:59.336 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 15064 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 09:57:59.339 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 09:57:59.991 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 09:57:59.998 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:57:59.998 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 09:57:59.999 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 09:58:00.062 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 09:58:00.063 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 694 ms
+2023-02-23 09:58:00.647 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 09:58:00.736 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 09:58:00.775 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 09:58:00.790 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 09:58:00.796 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.766 seconds (JVM running for 2.336)
+2023-02-23 09:58:01.389 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 09:58:01.390 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 09:58:01.391 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 10:02:15.528 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 16368 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:02:15.531 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:02:16.222 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:02:16.229 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:02:16.230 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:02:16.230 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:02:16.290 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:02:16.290 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 725 ms
+2023-02-23 10:02:16.826 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:02:16.913 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:02:16.950 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:02:16.963 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:02:16.970 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.782 seconds (JVM running for 2.36)
+2023-02-23 10:02:17.298 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:02:17.298 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:02:17.299 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 10:03:23.812 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 16920 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:03:23.815 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:03:24.504 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:03:24.512 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:03:24.513 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:03:24.513 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:03:24.574 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:03:24.574 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 727 ms
+2023-02-23 10:03:25.110 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:03:25.196 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:03:25.235 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:03:25.249 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:03:25.255 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.749 seconds (JVM running for 2.327)
+2023-02-23 10:03:28.874 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:03:28.874 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:03:28.875 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 10:04:09.552 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 10388 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:04:09.555 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:04:10.227 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:04:10.236 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:04:10.237 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:04:10.237 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:04:10.300 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:04:10.300 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 714 ms
+2023-02-23 10:04:10.867 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:04:10.954 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:04:10.992 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:04:11.007 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:04:11.013 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.764 seconds (JVM running for 2.354)
+2023-02-23 10:04:11.303 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:04:11.304 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:04:11.304 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 10:04:28.563 [com.xw.service.UpdateCoreServiceImpl:95] INFO   初次更新jar包：CEWeb.war 中的 \CERecvMessgaeByAPIProcessor$test$test2.class 文件
+2023-02-23 10:04:30.368 [com.xw.service.UpdateCoreServiceImpl:117] INFO   文件D:\workspace\patch\v003\CE\CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class 复制出现异常 D:\workspace\admin\CE\D:\workspace\patch\v003\CE\CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class (文件名、目录名或卷标语法不正确。)
+2023-02-23 10:04:33.976 [com.xw.service.UpdateCoreServiceImpl:95] INFO   初次更新jar包：CEWeb.war 中的 \CERecvMessgaeByAPIProcessor$test1.class 文件
+2023-02-23 10:04:34.655 [com.xw.service.UpdateCoreServiceImpl:117] INFO   文件D:\workspace\patch\v003\CE\CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test1.class 复制出现异常 D:\workspace\admin\CE\D:\workspace\patch\v003\CE\CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test1.class (文件名、目录名或卷标语法不正确。)
+2023-02-23 10:04:36.538 [com.xw.service.UpdateCoreServiceImpl:95] INFO   初次更新jar包：CEWeb.war 中的 \CERecvMessgaeByAPIProcessor.class 文件
+2023-02-23 10:04:37.167 [com.xw.service.UpdateCoreServiceImpl:117] INFO   文件D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor.class 复制出现异常 D:\workspace\admin\CE\D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor.class (文件名、目录名或卷标语法不正确。)
+2023-02-23 10:04:58.481 [com.xw.service.UpdateCoreServiceImpl:95] INFO   初次更新jar包：CEWeb.war 中的 \CEGetCataClause.class 文件
+2023-02-23 10:04:59.184 [com.xw.service.UpdateCoreServiceImpl:117] INFO   文件D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ceweb\catalog\clause\CEGetCataClause.class 复制出现异常 D:\workspace\admin\CE\D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ceweb\catalog\clause\CEGetCataClause.class (文件名、目录名或卷标语法不正确。)
+2023-02-23 10:05:07.805 [com.xw.filter.FileFilter:32] ERROR  目录D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ceweb\catalog\clause不存在
+2023-02-23 10:05:14.482 [com.xw.service.UpdateCoreServiceImpl:95] INFO   初次更新jar包：CEWeb.war 中的 \t2.txt 文件
+2023-02-23 10:05:14.482 [com.xw.service.OperationServiceImpl:303] INFO   文件 D:\workspace\admin\CE\D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ceweb\catalog\clause不存在
+2023-02-23 10:05:15.193 [com.xw.controller.UpdateCoreController:96] INFO   当前CEV2.0test1中的CEWeb.war更新完毕
+2023-02-23 10:08:56.119 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 18052 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:08:56.121 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:08:56.772 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:08:56.779 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:08:56.780 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:08:56.780 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:08:56.842 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:08:56.843 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 690 ms
+2023-02-23 10:08:57.387 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:08:57.487 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:08:57.534 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:08:57.545 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:08:57.552 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.743 seconds (JVM running for 2.325)
+2023-02-23 10:08:58.892 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:08:58.892 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:08:58.893 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 10:09:41.538 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 15800 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:09:41.540 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:09:42.194 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:09:42.202 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:09:42.202 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:09:42.203 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:09:42.264 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:09:42.264 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 692 ms
+2023-02-23 10:09:42.801 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:09:42.930 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:09:42.987 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:09:43.004 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:09:43.013 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.784 seconds (JVM running for 2.352)
+2023-02-23 10:09:43.944 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:09:43.945 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:09:43.945 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 10:10:05.900 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 18456 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:10:05.902 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:10:06.559 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:10:06.566 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:10:06.567 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:10:06.567 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:10:06.627 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:10:06.627 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 694 ms
+2023-02-23 10:10:07.198 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:10:07.288 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:10:07.326 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:10:07.339 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:10:07.345 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.749 seconds (JVM running for 2.335)
+2023-02-23 10:10:08.171 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:10:08.171 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:10:08.173 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 2 ms
+2023-02-23 10:10:35.290 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 4476 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:10:35.293 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:10:35.939 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:10:35.946 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:10:35.947 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:10:35.947 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:10:36.010 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:10:36.010 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 687 ms
+2023-02-23 10:10:36.551 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:10:36.641 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:10:36.679 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:10:36.693 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:10:36.700 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.712 seconds (JVM running for 2.279)
+2023-02-23 10:10:46.052 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:10:46.052 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:10:46.053 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 10:10:56.560 [com.xw.service.UpdateCoreServiceImpl:95] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class 文件
+2023-02-23 10:11:00.671 [com.xw.service.UpdateCoreServiceImpl:95] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test1.class 文件
+2023-02-23 10:12:25.210 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 1764 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:12:25.213 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:12:25.888 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:12:25.895 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:12:25.895 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:12:25.895 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:12:25.954 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:12:25.954 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 690 ms
+2023-02-23 10:12:26.506 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:12:26.590 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:12:26.626 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:12:26.641 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:12:26.647 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.728 seconds (JVM running for 2.311)
+2023-02-23 10:12:27.798 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:12:27.799 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:12:27.799 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 10:12:56.649 [com.xw.filter.FileFilter:32] ERROR  目录D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ceweb\catalog\clause不存在
+2023-02-23 10:13:01.114 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\com\cs\ceweb\catalog\clause\t2.txt 文件
+2023-02-23 10:13:16.544 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 15536 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:13:16.547 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:13:17.198 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:13:17.208 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:13:17.208 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:13:17.208 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:13:17.269 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:13:17.269 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 691 ms
+2023-02-23 10:13:17.817 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:13:17.906 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:13:17.943 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:13:17.957 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:13:17.963 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.724 seconds (JVM running for 2.296)
+2023-02-23 10:13:18.305 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:13:18.306 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:13:18.306 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 10:13:27.538 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class 文件
+2023-02-23 10:13:57.451 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 11016 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:13:57.454 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:13:58.069 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:13:58.077 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:13:58.077 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:13:58.077 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:13:58.134 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:13:58.135 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 654 ms
+2023-02-23 10:13:58.647 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:13:58.736 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:13:58.773 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:13:58.786 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:13:58.792 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.634 seconds (JVM running for 2.25)
+2023-02-23 10:14:11.933 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:14:11.933 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:14:11.934 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 10:14:14.753 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class 文件
+2023-02-23 10:15:13.655 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test1.class 文件
+2023-02-23 10:15:15.149 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor.class 文件
+2023-02-23 10:15:28.560 [com.xw.service.UpdateCoreServiceImpl:118] INFO   文件CEWeb.war\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor.class 复制出现异常 D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor.class (系统找不到指定的路径。)
+2023-02-23 10:16:06.370 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 10376 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:16:06.373 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:16:07.043 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:16:07.052 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:16:07.053 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:16:07.053 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:16:07.144 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:16:07.144 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 739 ms
+2023-02-23 10:16:07.693 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:16:07.799 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:16:07.838 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:16:07.855 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:16:07.861 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.812 seconds (JVM running for 2.402)
+2023-02-23 10:16:13.692 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:16:13.692 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:16:13.693 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 10:16:16.984 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class 文件
+2023-02-23 10:16:18.244 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test1.class 文件
+2023-02-23 10:17:39.001 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 8276 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:17:39.003 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:17:39.667 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:17:39.674 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:17:39.675 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:17:39.675 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:17:39.735 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:17:39.735 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 669 ms
+2023-02-23 10:17:40.277 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:17:40.363 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:17:40.404 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:17:40.416 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:17:40.423 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.692 seconds (JVM running for 2.271)
+2023-02-23 10:17:51.215 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:17:51.215 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:17:51.215 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 10:17:57.281 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class 文件
+2023-02-23 10:17:58.950 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test1.class 文件
+2023-02-23 10:18:05.746 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor.class 文件
+2023-02-23 10:18:14.750 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ceweb\catalog\clause\CEGetCataClause.class 文件
+2023-02-23 10:18:15.753 [com.xw.filter.FileFilter:32] ERROR  目录D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ceweb\catalog\clause不存在
+2023-02-23 10:18:16.614 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\com\cs\ceweb\catalog\clause\t2.txt 文件
+2023-02-23 10:18:16.615 [com.xw.service.OperationServiceImpl:303] INFO   文件 D:\workspace\admin\CE\CEWeb.war\com\cs\ceweb\catalog\clause\t2.txt不存在
+2023-02-23 10:19:16.890 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 14300 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:19:16.893 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:19:17.536 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:19:17.544 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:19:17.544 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:19:17.544 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:19:17.602 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:19:17.603 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 670 ms
+2023-02-23 10:19:18.128 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:19:18.214 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:19:18.250 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:19:18.262 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:19:18.268 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.68 seconds (JVM running for 2.254)
+2023-02-23 10:19:25.957 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:19:25.958 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:19:25.958 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 10:19:26.026 [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver:208] WARN   Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character ('/' (code 47)): maybe a (non-standard) comment? (not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser); nested exception is com.fasterxml.jackson.databind.JsonMappingException: Unexpected character ('/' (code 47)): maybe a (non-standard) comment? (not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser)<EOL> at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 7, column: 14] (through reference chain: com.xw.entity.ResultEntity["parameterEntity"]->com.xw.entity.ParameterEntity["updateFiles"]->java.util.ArrayList[0])]
+2023-02-23 10:19:50.529 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class 文件
+2023-02-23 10:19:50.965 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test1.class 文件
+2023-02-23 10:19:52.054 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor.class 文件
+2023-02-23 10:20:44.746 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ceweb\catalog\clause\CEGetCataClause.class 文件
+2023-02-23 10:20:53.257 [com.xw.filter.FileFilter:32] ERROR  目录D:\workspace\patch\v003\CE\CEWeb.war\com\cs\ceweb\catalog\clause不存在
+2023-02-23 10:22:38.587 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 3632 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 10:22:38.590 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 10:22:39.239 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 10:22:39.246 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:22:39.247 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 10:22:39.247 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 10:22:39.309 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 10:22:39.309 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 688 ms
+2023-02-23 10:22:39.859 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 10:22:39.949 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 10:22:39.991 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 10:22:40.005 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 10:22:40.011 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.721 seconds (JVM running for 2.304)
+2023-02-23 10:22:43.918 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 10:22:43.918 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 10:22:43.919 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 10:22:49.473 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ceweb\catalog\clause\t2.class 文件
+2023-02-23 10:22:49.714 [com.xw.service.OperationServiceImpl:303] INFO   文件 D:\workspace\admin\CE\CEWeb.war\WEB-INF\classes\com\cs\ceweb\catalog\clause\t2.class不存在
+2023-02-23 10:22:51.281 [com.xw.controller.UpdateCoreController:96] INFO   当前CEV2.0test1中的CEWeb.war更新完毕
+2023-02-23 10:23:03.323 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class 文件
+2023-02-23 10:23:03.566 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test1.class 文件
+2023-02-23 10:23:03.918 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor.class 文件
+2023-02-23 10:23:05.798 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ceweb\catalog\clause\CEGetCataClause.class 文件
+2023-02-23 10:23:09.812 [com.xw.service.UpdateCoreServiceImpl:96] INFO   初次更新jar包：CEWeb.war 中的 CEWeb.war\WEB-INF\classes\com\cs\ceweb\catalog\clause\t2.class 文件
+2023-02-23 10:23:10.545 [com.xw.service.OperationServiceImpl:303] INFO   文件 D:\workspace\admin\CE\CEWeb.war\WEB-INF\classes\com\cs\ceweb\catalog\clause\t2.class不存在
+2023-02-23 10:23:11.818 [com.xw.controller.UpdateCoreController:96] INFO   当前CEV2.0test1中的CEWeb.war更新完毕
+2023-02-23 14:53:18.343 [org.springframework.test.context.support.AbstractTestContextBootstrapper:305] INFO   Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.xw.test.CoreMd5ApplicationTest], using SpringBootContextLoader
+2023-02-23 14:53:18.346 [org.springframework.test.context.support.AbstractContextLoader:264] INFO   Could not detect default resource locations for test class [com.xw.test.CoreMd5ApplicationTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2023-02-23 14:53:18.347 [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils:83] INFO   Could not detect default configuration classes for test class [com.xw.test.CoreMd5ApplicationTest]: CoreMd5ApplicationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-02-23 14:53:18.414 [org.springframework.boot.test.context.SpringBootTestContextBootstrapper:238] INFO   Found @SpringBootConfiguration com.xw.test.UpdateApplication for test class com.xw.test.CoreMd5ApplicationTest
+2023-02-23 14:53:18.481 [org.springframework.test.context.support.AbstractTestContextBootstrapper:245] INFO   Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2023-02-23 14:53:18.492 [org.springframework.test.context.support.AbstractTestContextBootstrapper:174] INFO   Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@9cb8225, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@76b07f29, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@38af9828, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@376a0d86, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@62656be4, org.springframework.test.context.support.DirtiesContextTestExecutionListener@17d919b6, org.springframework.test.context.transaction.TransactionalTestExecutionListener@53f3bdbd, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@34129c78, org.springframework.test.context.event.EventPublishingTestExecutionListener@7d61eb55, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@222a59e6, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@6c7a164b, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@4c2bb6e0, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3e62d773, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@4ef74c30, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@7283d3eb]
+2023-02-23 14:53:18.678 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting CoreMd5ApplicationTest using Java 1.8.0_231 on WeilXie with PID 14084 (started by Weil in D:\workspace\update)
+2023-02-23 14:53:18.679 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 14:53:20.011 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 14:53:20.207 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 14:53:20.273 [org.springframework.boot.StartupInfoLogger:61] INFO   Started CoreMd5ApplicationTest in 1.757 seconds (JVM running for 2.47)
+2023-02-23 14:53:20.418 [com.zaxxer.hikari.HikariDataSource:350] INFO   HikariPool-1 - Shutdown initiated...
+2023-02-23 14:53:20.419 [com.zaxxer.hikari.HikariDataSource:352] INFO   HikariPool-1 - Shutdown completed.
+2023-02-23 14:53:38.502 [org.springframework.test.context.support.AbstractTestContextBootstrapper:305] INFO   Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.xw.test.CoreMd5ApplicationTest], using SpringBootContextLoader
+2023-02-23 14:53:38.505 [org.springframework.test.context.support.AbstractContextLoader:264] INFO   Could not detect default resource locations for test class [com.xw.test.CoreMd5ApplicationTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2023-02-23 14:53:38.506 [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils:83] INFO   Could not detect default configuration classes for test class [com.xw.test.CoreMd5ApplicationTest]: CoreMd5ApplicationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-02-23 14:53:38.570 [org.springframework.boot.test.context.SpringBootTestContextBootstrapper:238] INFO   Found @SpringBootConfiguration com.xw.test.UpdateApplication for test class com.xw.test.CoreMd5ApplicationTest
+2023-02-23 14:53:38.639 [org.springframework.test.context.support.AbstractTestContextBootstrapper:245] INFO   Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2023-02-23 14:53:38.652 [org.springframework.test.context.support.AbstractTestContextBootstrapper:174] INFO   Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@9cb8225, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@76b07f29, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@38af9828, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@376a0d86, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@62656be4, org.springframework.test.context.support.DirtiesContextTestExecutionListener@17d919b6, org.springframework.test.context.transaction.TransactionalTestExecutionListener@53f3bdbd, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@34129c78, org.springframework.test.context.event.EventPublishingTestExecutionListener@7d61eb55, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@222a59e6, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@6c7a164b, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@4c2bb6e0, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3e62d773, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@4ef74c30, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@7283d3eb]
+2023-02-23 14:53:38.879 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting CoreMd5ApplicationTest using Java 1.8.0_231 on WeilXie with PID 17996 (started by Weil in D:\workspace\update)
+2023-02-23 14:53:38.880 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 14:53:40.133 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 14:53:40.333 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 14:53:40.400 [org.springframework.boot.StartupInfoLogger:61] INFO   Started CoreMd5ApplicationTest in 1.72 seconds (JVM running for 2.362)
+2023-02-23 14:53:40.558 [com.zaxxer.hikari.HikariDataSource:350] INFO   HikariPool-1 - Shutdown initiated...
+2023-02-23 14:53:40.560 [com.zaxxer.hikari.HikariDataSource:352] INFO   HikariPool-1 - Shutdown completed.
+2023-02-23 15:08:27.704 [org.springframework.test.context.support.AbstractTestContextBootstrapper:305] INFO   Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.xw.test.CoreMd5ApplicationTest], using SpringBootContextLoader
+2023-02-23 15:08:27.708 [org.springframework.test.context.support.AbstractContextLoader:264] INFO   Could not detect default resource locations for test class [com.xw.test.CoreMd5ApplicationTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2023-02-23 15:08:27.708 [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils:83] INFO   Could not detect default configuration classes for test class [com.xw.test.CoreMd5ApplicationTest]: CoreMd5ApplicationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-02-23 15:08:27.774 [org.springframework.boot.test.context.SpringBootTestContextBootstrapper:238] INFO   Found @SpringBootConfiguration com.xw.test.UpdateApplication for test class com.xw.test.CoreMd5ApplicationTest
+2023-02-23 15:08:27.838 [org.springframework.test.context.support.AbstractTestContextBootstrapper:245] INFO   Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2023-02-23 15:08:27.847 [org.springframework.test.context.support.AbstractTestContextBootstrapper:174] INFO   Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@9cb8225, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@76b07f29, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@38af9828, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@376a0d86, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@62656be4, org.springframework.test.context.support.DirtiesContextTestExecutionListener@17d919b6, org.springframework.test.context.transaction.TransactionalTestExecutionListener@53f3bdbd, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@34129c78, org.springframework.test.context.event.EventPublishingTestExecutionListener@7d61eb55, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@222a59e6, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@6c7a164b, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@4c2bb6e0, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3e62d773, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@4ef74c30, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@7283d3eb]
+2023-02-23 15:08:28.052 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting CoreMd5ApplicationTest using Java 1.8.0_231 on WeilXie with PID 8896 (started by Weil in D:\workspace\update)
+2023-02-23 15:08:28.053 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 15:08:29.412 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 15:08:29.612 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 15:08:29.691 [org.springframework.boot.StartupInfoLogger:61] INFO   Started CoreMd5ApplicationTest in 1.816 seconds (JVM running for 2.943)
+2023-02-23 15:08:29.903 [com.zaxxer.hikari.HikariDataSource:350] INFO   HikariPool-1 - Shutdown initiated...
+2023-02-23 15:08:29.905 [com.zaxxer.hikari.HikariDataSource:352] INFO   HikariPool-1 - Shutdown completed.
+2023-02-23 15:08:43.302 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 15600 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 15:08:43.304 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 15:08:43.949 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 15:08:43.956 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 15:08:43.957 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 15:08:43.957 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 15:08:44.020 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 15:08:44.021 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 689 ms
+2023-02-23 15:08:44.546 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 15:08:44.634 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 15:08:44.674 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 15:08:44.694 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 15:08:44.700 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.69 seconds (JVM running for 2.262)
+2023-02-23 15:08:45.746 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 15:08:45.747 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 15:08:45.747 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 15:09:29.630 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 5628 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 15:09:29.633 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 15:09:30.250 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 15:09:30.257 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 15:09:30.257 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 15:09:30.258 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 15:09:30.319 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 15:09:30.319 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 654 ms
+2023-02-23 15:09:30.833 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 15:09:30.919 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 15:09:30.954 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 15:09:30.967 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 15:09:30.973 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.652 seconds (JVM running for 2.221)
+2023-02-23 15:10:04.716 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 15:10:04.717 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 15:10:04.718 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 1 ms
+2023-02-23 15:13:15.050 [org.springframework.boot.StartupInfoLogger:55] INFO   Starting UpdateApplication using Java 1.8.0_231 on WeilXie with PID 16416 (D:\workspace\update\target\classes started by Weil in D:\workspace\update)
+2023-02-23 15:13:15.053 [org.springframework.boot.SpringApplication:634] INFO   No active profile set, falling back to 1 default profile: "default"
+2023-02-23 15:13:15.540 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] INFO   Tomcat initialized with port(s): 8090 (http)
+2023-02-23 15:13:15.547 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing ProtocolHandler ["http-nio-8090"]
+2023-02-23 15:13:15.547 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting service [Tomcat]
+2023-02-23 15:13:15.548 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-02-23 15:13:15.608 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring embedded WebApplicationContext
+2023-02-23 15:13:15.609 [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] INFO   Root WebApplicationContext: initialization completed in 514 ms
+2023-02-23 15:13:16.039 [com.zaxxer.hikari.HikariDataSource:110] INFO   HikariPool-1 - Starting...
+2023-02-23 15:13:16.114 [com.zaxxer.hikari.HikariDataSource:123] INFO   HikariPool-1 - Start completed.
+2023-02-23 15:13:16.144 [org.apache.juli.logging.DirectJDKLog:173] INFO   Starting ProtocolHandler ["http-nio-8090"]
+2023-02-23 15:13:16.153 [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] INFO   Tomcat started on port(s): 8090 (http) with context path ''
+2023-02-23 15:13:16.158 [org.springframework.boot.StartupInfoLogger:61] INFO   Started UpdateApplication in 1.328 seconds (JVM running for 1.705)
+2023-02-23 15:13:20.367 [org.apache.juli.logging.DirectJDKLog:173] INFO   Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-23 15:13:20.367 [org.springframework.web.servlet.FrameworkServlet:525] INFO   Initializing Servlet 'dispatcherServlet'
+2023-02-23 15:13:20.367 [org.springframework.web.servlet.FrameworkServlet:547] INFO   Completed initialization in 0 ms
+2023-02-23 15:13:20.447 [com.xw.filter.FileFilter:14] INFO   正在调用listFile方法
+2023-02-23 15:13:20.448 [com.xw.filter.FileFilter:35] INFO   listFile方法调用完成，fileList为：[D:\workspace\patch\v003\CE\CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test$test2.class, D:\workspace\patch\v003\CE\CEWeb.war\WEB-INF\classes\com\cs\ce\rest\service\CERecvMessgaeByAPIProcessor$test1.class]
+2023-02-23 15:13:20.452 [com.xw.filter.FileFilter:14] INFO   正在调用listFile方法
+2023-02-23 15:13:20.452 [com.xw.filter.FileFilter:35] INFO   listFile方法调用完成，fileList为：[]
+2023-02-23 15:13:20.454 [com.xw.controller.UpdateCoreController:96] INFO   当前CEV2.0test1中的CEWeb.war更新完毕
