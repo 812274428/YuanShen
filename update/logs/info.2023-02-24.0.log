@@ -1,8 +1,0 @@
-2023-02-24 13:06:05.980 [org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159] INFO   Application shutdown requested.
-2023-02-24 13:06:06.085 [org.apache.juli.logging.DirectJDKLog:173] INFO   Pausing ProtocolHandler ["http-nio-8090"]
-2023-02-24 13:06:06.087 [org.apache.juli.logging.DirectJDKLog:173] INFO   Stopping service [Tomcat]
-2023-02-24 13:06:06.091 [org.apache.juli.logging.DirectJDKLog:173] INFO   Destroying Spring FrameworkServlet 'dispatcherServlet'
-2023-02-24 13:06:06.103 [org.apache.juli.logging.DirectJDKLog:173] INFO   Stopping ProtocolHandler ["http-nio-8090"]
-2023-02-24 13:06:06.107 [org.apache.juli.logging.DirectJDKLog:173] INFO   Destroying ProtocolHandler ["http-nio-8090"]
-2023-02-24 13:06:06.111 [com.zaxxer.hikari.HikariDataSource:350] INFO   HikariPool-1 - Shutdown initiated...
-2023-02-24 13:06:06.114 [com.zaxxer.hikari.HikariDataSource:352] INFO   HikariPool-1 - Shutdown completed.
